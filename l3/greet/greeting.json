@@ -1,0 +1,9 @@
+{
+  "greetings": {
+    "English": "Hello",
+    "Spanish": "Hola",
+    "French": "Bonjour",
+    "German": "Hallo",
+    "Italian": "Ciao"
+  }
+}

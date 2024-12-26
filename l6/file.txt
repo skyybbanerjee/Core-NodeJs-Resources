@@ -1,0 +1,1 @@
+The `fs` module in Node.js provides an API for interacting with the file system, enabling file reading, writing, updating, and directory manipulation.
